@@ -1,4 +1,4 @@
-<img src="https://cloudme.ga/x/xqtn5.gif" alt="Oh crap, is my cloud down again?" width="100"><img src="https://cloudme.ga/x/ifozw.gif" alt="Oh crap, is my cloud down again?" width="100">
+<img src="https://cloudme.ga/x/xqtn5.gif" alt="Oh crap, is my cloud down again?" height="256"><img src="https://cloudme.ga/x/ifozw.gif" alt="Oh crap, is my cloud down again?" height="256">
 ![stats](https://github-readme-stats.vercel.app/api?username=kellphy&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
