@@ -1,5 +1,5 @@
 <img src="https://cloudme.ga/x/xqtn5.gif" alt="Oh crap, is my cloud down again?" width="512">
-<img src="https://github-readme-stats.vercel.app/api?username=kellphy&count_private=true&show_icons=true&theme=tokyonight" alt="Oh crap, is my cloud down again?" width="512">
+<img src="https://github-readme-stats.vercel.app/api?username=kellphy&count_private=true&show_icons=true&theme=tokyonight" alt="No Github status? No problem." width="512">
 
 <!--
 **Kellphy/Kellphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
