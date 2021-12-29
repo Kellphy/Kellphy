@@ -1,4 +1,4 @@
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+<img src="https://cloudme.ga/x/xqtn5.gif" alt="alt" width="100">
 ![Oh crap, is my cloud down again?](https://cloudme.ga/x/xqtn5.gif)
 ![Oh crap, is my cloud down again?](https://cloudme.ga/x/ifozw.gif | width=100)
 ![stats](https://github-readme-stats.vercel.app/api?username=kellphy&count_private=true&show_icons=true&theme=tokyonight)
